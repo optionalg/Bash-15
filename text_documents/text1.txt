@@ -1,0 +1,46 @@
+Software Localization
+
+Discover the benefits of software localization
+
+Software Localization is more than the translation of a product's User Interface. Companies localize software in order to overcome cultural barriers for their products to reach a much larger target audience.
+
+
+Contact Us
+Resource Library
+Webinar Registration
+Come and meet us
+View our products
+What is software localization?
+How does software localization differ from traditional document translation?
+What is the standard software localization process?
+What is SDL Passolo and what are the benefits?
+
+What is software localization?
+Software localization is the process of adapting a software product to the linguistic, cultural and technical requirements of a target market. This process is labour-intensive and often requires a significant amount of time from the development teams.
+
+How does software localization differ from traditional document translation?
+Software localization is the translation and adaptation of a software or web product, including the software itself and all related product documentation. 
+Traditional translation is typically an activity performed after the source document has been finalized. Software localization projects, on the other hand, often run in parallel with the development of the source product to enable simultaneous shipment of all language versions. For example, the translation of software strings may often start while the software product is still in the beta phase. 
+
+Translation is only one of the activities in a localization project – there are other tasks involved such as project management, software engineering, testing and desktop publishing.
+
+What is the standard software localization process?
+A software product that has been localized properly has the look and feel of a product originally written and designed for the target market. Here are just a number of points that have to be considered, as well as the  language, in order to effectively localize a software product or website: measuring units, number formats, address formats, time and date formats (long and short), paper sizes, fonts, default font selection, case differences, character sets, sorting, word separation and hyphenation, local regulations, copyright issues, data protection, payment methods, currency conversion, taxes. 
+
+The standard localization process includes the following basic steps:
+
+Analysis of the material received and evaluation of the tools and resources required for localization
+Cultural, technical and linguistic assessment
+Creation and maintenance of terminology glossaries
+Translation to the target language
+Adaptation of the user interface, including resizing of forms and dialogs, as required
+Localization of graphics, scripts or other media containing visible text, symbols, etc.
+Compilation and build of the localized files for testing
+Linguistic and functional quality assurance
+Project delivery     
+What is SDL Passolo and what are the benefits?
+SDL Passolo is a software localization tool that accelerates the many technical aspects of software localization and allows users to concentrate on the translation. When working with SDL Passolo it is possible to display the dialogs and menus in which the translated text strings will appear. If the length of a text string changes as a result of the translation, any necessary layout modifications to dialogs and forms can be made directly within SDL Passolo.
+
+SDL Passolo offers the tools required to localize all the elements contained in the software, including strings, menus, dialogs, bitmaps, and icons. With SDL Passolo you can create localized software versions without requiring access to the source text files or the development environment used for developing the software.
+
+Providing automatic test functions, interfaces to the major translation memories, and the option of working with all the major Windows formats as well as text files and tagged formats such as XML and HTML, SDL Passolo is the state-of-the-art software localization tool.
